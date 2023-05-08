@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Productivity Tracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">Welcome to our productivity manager app, the ultimate tool for helping you stay focused, organized, and on track with your goals. With our app, you will be able to manage your time and tasks more effectively than ever before, so you can make the most of every day.Our task manager lets you create and organize your to-do list with ease. You can set due dates and reminders, assign tasks to specific projects, and even track your progress as you work towards completing each task. </string>
+    <string name="developer">Developed By Atharav Bhatnagar</string>
+</resources>

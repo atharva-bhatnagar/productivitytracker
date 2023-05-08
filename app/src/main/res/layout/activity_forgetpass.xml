@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Forgetpass">
+
+
+    <TextView
+        android:layout_width="412dp"
+        android:layout_height="58dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="25dp"
+        android:fontFamily="cursive"
+        android:gravity="center"
+        android:text="Admin Credentials"
+        android:textColor="#11209F"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="100dp"
+        android:fontFamily="cursive"
+        android:gravity="left"
+        android:text="UserName: admin@project.com"
+        android:textColor="#11209F"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="170dp"
+        android:fontFamily="cursive"
+        android:gravity="left
+"
+        android:text="Password: password123"
+        android:textColor="#11209F"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bck"
+        android:layout_width="383dp"
+        android:layout_height="65dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="385dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/button"
+        android:text="Back To Login"
+        android:textColor="#fff" />
+
+
+</RelativeLayout>
